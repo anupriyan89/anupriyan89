@@ -7,8 +7,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 Software Developer and mom of 2 kids
+
 👩🏻‍🎓 Graduated in Computer Science from CUSAT, Kerala, India
+
 📚 Currently learning AWS 
+
 📫 How to reach me: anupriya.n89@gmail.com
 
 ⚡ Fun fact: 
